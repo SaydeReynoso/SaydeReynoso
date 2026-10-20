@@ -19,9 +19,8 @@ Convierto datos de ventas, logística y comercio exterior en decisiones de negoc
 
 | Proyecto | Problema | Herramientas |
 |---|---|---|
-| [Nombre del proyecto 1](ENLACE) | Una línea con el problema de negocio y el resultado | Python, SQL, Power BI |
-| [Nombre del proyecto 2](ENLACE) | Una línea con el problema de negocio y el resultado | Python, pandas |
-| [Análisis de Ingresos por País y Categoría](ENLACE) | Qué mercados y categorías concentran el revenue y el profit | Python, pandas |
+| Revenue y Profit por Producto | Análisis de 177,527 órdenes: qué productos generan más revenue y profit (51.99 M de revenue, 8.86 M de profit). Proyecto del bootcamp | Python, pandas, Jupyter |
+| Análisis de Ingresos por País y Categoría | Qué mercados y categorías concentran el revenue y el profit. Proyecto del bootcamp | Python, pandas, Jupyter |
 
 👉 Todos mis proyectos con más detalle: [Portafolio](https://github.com/SaydeReynoso/Portafolio)
 
