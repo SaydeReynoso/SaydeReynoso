@@ -22,7 +22,6 @@ Convierto datos de ventas, logística y comercio exterior en decisiones de negoc
 | Revenue y Profit por Producto | Análisis de 177,527 órdenes: qué productos generan más revenue y profit (51.99 M de revenue, 8.86 M de profit). Proyecto del bootcamp | Python, pandas, Jupyter |
 | Análisis de Ingresos por País y Categoría | Qué mercados y categorías concentran el revenue y el profit. Proyecto del bootcamp | Python, pandas, Jupyter |
 
-👉 Todos mis proyectos con más detalle: [Portafolio](https://github.com/SaydeReynoso/Portafolio)
 
 ## 🎯 Lo que estoy buscando
 
@@ -30,5 +29,5 @@ Posiciones de Data Analyst o Junior Data Analyst en ventas, logística, operacio
 
 ## 📫 Contacto
 
-- LinkedIn: [sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso)
+- LinkedIn: [sayde-reynoso][(https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/)
 - Correo: saydegrm@hotmail.com
