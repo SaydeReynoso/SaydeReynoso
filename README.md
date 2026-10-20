@@ -29,5 +29,5 @@ Posiciones de Data Analyst o Junior Data Analyst en ventas, logística, operacio
 
 ## 📫 Contacto
 
-- LinkedIn: [sayde-reynoso][(https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/)
+- LinkedIn: [sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/)
 - Correo: saydegrm@hotmail.com
