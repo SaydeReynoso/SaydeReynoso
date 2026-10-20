@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy Sayde 👋
 
-<!--
-**SaydeReynoso/SaydeReynoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Comercio Internacional y Operaciones**
+Convierto datos de ventas, logística y comercio exterior en decisiones de negocio. Vengo de Comercio Internacional y de trabajo administrativo y contable, así que además de manejar las herramientas entiendo los procesos que hay detrás de los números.
 
-Here are some ideas to get you started:
+📍 Ciudad de México · 🗣️ Español nativo, inglés intermedio alto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+## 📂 Proyectos destacados
+
+| Proyecto | Problema | Herramientas |
+|---|---|---|
+| [Nombre del proyecto 1](ENLACE) | Una línea con el problema de negocio y el resultado | Python, SQL, Power BI |
+| [Nombre del proyecto 2](ENLACE) | Una línea con el problema de negocio y el resultado | Python, pandas |
+| [Análisis de Ingresos por País y Categoría](ENLACE) | Qué mercados y categorías concentran el revenue y el profit | Python, pandas |
+
+👉 Todos mis proyectos con más detalle: [Portafolio](https://github.com/SaydeReynoso/Portafolio)
+
+## 🎯 Lo que estoy buscando
+
+Posiciones de Data Analyst o Junior Data Analyst en ventas, logística, operaciones o comercio exterior.
+
+## 📫 Contacto
+
+- LinkedIn: [sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso)
+- Correo: saydegrm@hotmail.com
