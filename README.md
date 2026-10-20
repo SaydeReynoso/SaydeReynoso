@@ -1,6 +1,7 @@
 # Hola, soy Sayde 👋
 
 **Data Analyst | Comercio Internacional y Operaciones**
+
 Convierto datos de ventas, logística y comercio exterior en decisiones de negocio. Vengo de Comercio Internacional y de trabajo administrativo y contable, así que además de manejar las herramientas entiendo los procesos que hay detrás de los números.
 
 📍 Ciudad de México · 🗣️ Español nativo, inglés intermedio alto
